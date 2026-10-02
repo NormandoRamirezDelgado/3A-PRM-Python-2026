@@ -9,6 +9,10 @@ for i in range(125, 201):
         if i % 2 == 1:
             print(f'El número {i} es primo e impar')
 
+
+
+
+
 print()
 for i in range(125, 201):
     contador = True
