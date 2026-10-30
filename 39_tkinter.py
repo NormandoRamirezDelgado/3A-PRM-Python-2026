@@ -18,7 +18,7 @@ tk.Label(ventana, text="Carrera: Programación").pack()
 saludoDos.pack()
 saludoUno.pack()
 
-titulo = tk.Label(ventana, text="CBTis 236", fg="white", bg="#1a4d7a", font=("Arial", 20, "bold"), width=20, pady=8)
+titulo = tk.Label(ventana, text="CBTis 236", fg="white", bg="#368578", font=("Arial", 20, "bold"), width=20, pady=8)
 titulo.pack()
 subtitulo = tk.Label(ventana, text="Técnico en Programación", fg="red", font=("Arial 13 italic"))
 subtitulo.pack()
