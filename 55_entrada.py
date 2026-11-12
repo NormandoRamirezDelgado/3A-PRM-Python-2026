@@ -9,7 +9,6 @@ def limpiar():
     entrada.delete(0, "end")
     resultado.config(text="")
 
-
 ventana = tb.Window()
 ventana.title("Saludo")
 ventana.geometry("300x150")
